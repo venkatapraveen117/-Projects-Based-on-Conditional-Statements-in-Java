@@ -1,5 +1,4 @@
 Student Grading System:
-details:
 ________
 Takes marks for 5 subjects as input.
 
