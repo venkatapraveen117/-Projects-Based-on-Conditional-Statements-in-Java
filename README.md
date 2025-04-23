@@ -9,6 +9,9 @@ _________________________________________________
 Age Group Classifier
 
 Take a user's age as input and classify them into an appropriate age group using if-else statements.
+_________________________________________________________________________________________________
+ Even or Odd Checker
+ Used % and if-else to check give number is even or odd.
 
 
 
