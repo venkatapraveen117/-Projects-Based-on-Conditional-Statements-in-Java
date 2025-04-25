@@ -15,10 +15,16 @@ ________________________________________________________________________________
  Vowel or Consonant Checker:
  
  Takes a single alphabet character as input.
-
 Checks whether the character is a vowel or consonant.
 Handles both uppercase and lowercase inputs.
 Validates whether the input is a letter or not.
+_________________________________________________________________________________________________
+ Electricity Bill Calculator:
+
+To calculate the total electricity bill based on.
+Units consumed by the user.
+
+
  
 
 
