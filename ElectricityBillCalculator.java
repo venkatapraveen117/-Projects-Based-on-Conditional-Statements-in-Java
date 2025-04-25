@@ -1,4 +1,4 @@
-package pack1;
+  	package pack1;
 import java.util.Scanner;
 public class ElectricityBillCalculator {
 	Scanner scan=new Scanner(System.in);
@@ -11,7 +11,7 @@ public class ElectricityBillCalculator {
 		System.out.println("101-300     ₹2.50 ");
 		System.out.println("301-500     ₹4.50 ");
 		System.out.println("501+     ₹6.50 ");
-		System.out.println("Enter total  units Consumed");
+		System.out.println("Enter total  units Consumed :");
 		int units=scan.nextInt();
 		switch(units/100)
 		{
@@ -63,6 +63,45 @@ public class ElectricityBillCalculator {
 	        break;
 		
 		}
+		
+	}
+	public void m2()
+	
+	{
+		System.out.println("Welcome to Electricity-Bill-Calculator");
+		System.out.println(" Rate increases with usage");
+		System.out.println("Units(kWh)   Rate per Unit");
+		System.out.println("0-100     ₹1.50 ");
+		System.out.println("101-300     ₹2.50 ");
+		System.out.println("301-500     ₹4.50 ");
+		System.out.println("501+     ₹6.50 ");
+		System.out.println("Enter total  units Consumed :");
+		int units=scan.nextInt();
+		if(units>=0 && units<=100)
+		{
+			System.out.println("₹"+units*1.50);
+			
+		}
+		else if(units>=101 && units<=300)
+		{
+			System.out.println("₹"+units*2.50);
+			
+		}
+		else if(units>=301 && units<=500)
+		{
+			System.out.println("₹"+units*4.50);
+			
+		}
+		else if(units>=500)
+		{
+			System.out.println("₹"+units*6.50);
+			
+		}
+		else
+		{
+			System.out.println("invalid input");
+		}
+		
 		
 	}
 
