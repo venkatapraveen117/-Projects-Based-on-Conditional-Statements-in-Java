@@ -1,17 +1,18 @@
 Student Grading System:
-
 Takes marks for 5 subjects as input.
-
 Calculates the total marks, percentage, and grade.
-
 Used conditional statements to assign a grade based on the percentage.
 _________________________________________________
 Age Group Classifier
-
 Take a user's age as input and classify them into an appropriate age group using if-else statements.
 _________________________________________________________________________________________________
  Even or Odd Checker
  Used % and if-else to check give number is even or odd.
+ _________________________________________________
+Leap Year Checker
+Enter a year to check whether it is a leap year or not.
+_________________________________________________________________________________________________
+ 
 
 
 
