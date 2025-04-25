@@ -12,6 +12,13 @@ ________________________________________________________________________________
 Leap Year Checker:
 Enter a year to check whether it is a leap year or not.
 _________________________________________________________________________________________________
+ Vowel or Consonant Checker:
+ 
+ Takes a single alphabet character as input.
+
+Checks whether the character is a vowel or consonant.
+Handles both uppercase and lowercase inputs.
+Validates whether the input is a letter or not.
  
 
 
