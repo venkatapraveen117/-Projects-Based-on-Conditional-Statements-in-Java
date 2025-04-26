@@ -23,6 +23,14 @@ ________________________________________________________________________________
 
 To calculate the total electricity bill based on.
 Units consumed by the user.
+_________________________________________________________________________________________________
+Day of the Week:
+
+Enter Numbers from 1 to 7.
+Logic: Use switch-case to display the corresponding day.
+_________________________________________________________________________________________________
+
+
 
 
  
