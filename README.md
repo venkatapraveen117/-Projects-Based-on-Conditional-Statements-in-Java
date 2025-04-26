@@ -29,6 +29,12 @@ Day of the Week:
 Enter Numbers from 1 to 7.
 Logic: Use switch-case to display the corresponding day.
 _________________________________________________________________________________________________
+Simple Calculator:
+
+ basic mathematical operations:Addition,Subtraction,Multiplication,Division.
+
+The user will: Enter two numbers.Choose an operation (+, -, *, /)
+
 
 
 
